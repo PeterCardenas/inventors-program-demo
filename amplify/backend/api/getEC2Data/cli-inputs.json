@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/getEC2Data": {
+      "name": "/getEC2Data",
+      "lambdaFunction": "getEC2Data",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
